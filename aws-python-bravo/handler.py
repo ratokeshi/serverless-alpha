@@ -3,7 +3,7 @@ import json
 
 def hello(event, context):
     body = {
-        "message": "Go lambda-alpha v2!",
+        "message": "Go lambda-alpha v3!",
         "input": event
     }
 
